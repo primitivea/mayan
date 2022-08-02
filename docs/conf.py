@@ -40,7 +40,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Trending Tutorial'
+project = u'IG Fonts Tutorial'
 copyright = u'2022, Techidn Team'
 
 # The version info for the project you're documenting, acts as replacement for
